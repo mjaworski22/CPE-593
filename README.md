@@ -1,2 +1,2 @@
-# cppoop
-This is a repo of small object-oriented programming projects that I will make in C++. This is just for practice to try to demonstrate OOP software design patterns.
+# CPE-593
+This is a repo of any work I do that is related to CPE-593 Applied Data Structures and Algorithms.
